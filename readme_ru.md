@@ -1,6 +1,6 @@
 # tButton
 
-([read in English](tButton.md))
+([read in English](readme.md))
 
 Юзерскрипт добавляет кнопку на google.com.ua для быстрого перевода в Google translate.
 
