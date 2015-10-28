@@ -16,7 +16,7 @@ function main() {
 
     tButton.className = 'lsbb kpbb';
     tButton.id = 'tButton';
-    tButton.innerHTML = '<span>Перевод</span>';
+    tButton.innerHTML = '<span>РџРµСЂРµРІРѕРґ</span>';
 
     par.appendChild(tButton);
 
@@ -25,7 +25,7 @@ function main() {
         var query = document.getElementById("lst-ib").value;
         var tLang;
 
-        if (query.match(/[а-яґєії]/i)) {
+        if (query.match(/[Р°-СЏТ‘С”С–С—]/i)) {
             tLang = "en"
         } else {
             tLang = "ru"
