@@ -1,5 +1,7 @@
 # tButton
 
+([читать на русском](tButton_ru.md))
+
 Userscript adds Google translate button to google.com.ua
 
 **Translates your query:**
